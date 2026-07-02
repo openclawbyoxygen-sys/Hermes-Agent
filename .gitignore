@@ -1,0 +1,4 @@
+*.swp *.swo *~ .DS_Store Thumbs.db
+*.tmp *.bak *.log __pycache__ *.pyc
+.hermes_tmp/ *.lock
+nous_auth.*
