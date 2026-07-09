@@ -17,3 +17,4 @@ Tags that have appeared 3+ times in the KB:
 ## #memory
 ## #evaluation
 ## #multi-agent
+- safety
