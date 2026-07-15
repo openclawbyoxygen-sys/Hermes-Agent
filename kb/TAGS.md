@@ -19,3 +19,5 @@ Tags that have appeared 3+ times in the KB:
 ## #multi-agent
 - safety
 - safety
+- rag
+- safety
