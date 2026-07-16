@@ -21,3 +21,4 @@ Tags that have appeared 3+ times in the KB:
 - safety
 - rag
 - safety
+- simulation
