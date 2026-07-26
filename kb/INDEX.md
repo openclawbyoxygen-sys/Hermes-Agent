@@ -18,3 +18,4 @@
 | 2026-07-22 | ai-agents | 8 | rag, planning, multi-agent, reasoning, evaluation |
 | 2026-07-23 | ai-agents | 7 | orchestration, rl, multi-agent, rag, planning |
 | 2026-07-24 | ai-agents | 6 | orchestration, multi-agent, rl, protocol, evaluation |
+| 2026-07-27 | ai-agents | 5 | rag, orchestration, multi-agent, tool-use, planning |
