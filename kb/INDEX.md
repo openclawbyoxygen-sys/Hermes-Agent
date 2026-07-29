@@ -21,3 +21,4 @@
 | 2026-07-27 | ai-agents | 5 | rag, orchestration, multi-agent, tool-use, planning |
 | 2026-07-28 | ai-agents | 6 | rag, orchestration, rl, benchmark, llm-agents |
 | 2026-07-29 | ai-agents | 8 | evaluation, multi-agent, reasoning, rag, orchestration |
+| 2026-07-30 | ai-agents | 8 | evaluation, orchestration, tool-use, safety, reasoning |
