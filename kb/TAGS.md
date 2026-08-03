@@ -33,3 +33,5 @@ Tags that have appeared 3+ times in the KB:
 - rag
 - tool-use
 - rag
+- planning
+- rag
