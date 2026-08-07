@@ -28,3 +28,4 @@
 | 2026-08-05 | ai-agents | 8 | multi-agent, planning, safety, memory, single-agent |
 | 2026-08-06 | ai-agents | 8 | multi-agent, evaluation, orchestration, rl, safety |
 | 2026-08-07 | ai-agents | 7 | multi-agent, orchestration, rag, llm-agents, rl |
+| 2026-08-08 | ai-agents | 7 | orchestration, evaluation, safety, tool-use, rag |
