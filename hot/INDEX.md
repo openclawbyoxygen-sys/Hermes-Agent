@@ -1,4 +1,4 @@
-# Hot Memo — last updated 2026-08-04T16:30+07:00
+# Hot Memo — last updated 2026-08-09T09:18+07:00
 
 ## 🎯 Standing goal
 Build a self-improving Hermes Agent ที่จำต่อเนื่อง + auto-push KB ขึ้น GitHub + cron pipeline ทำงาน Bangkok time
@@ -52,7 +52,9 @@ Build a self-improving Hermes Agent ที่จำต่อเนื่อง +
 - _(none)_
 
 ## ✅ Recently closed (auto-archived after 30 days)
-- 2026-07-03T08:42: ✅ ทุก check cron (kb-preflight, daily-kb, kb-monitor) → silent + alert on fail — Discord noise ลดลง 90%
+- 2026-08-09T09:18: ✅ HOT memo pushed ขึ้น GitHub (commit 73e6234)
+- 2026-08-09T09:18: ✅ pin 4 critical skills (self-improve, kb-ingest, prompt-ab, hot-catch)
+- 2026-08-09T09:18: ⚠️ curator disabled — หยุด over-aggressive stale marking (62 ตัวถูก mark ทั้งที่บางตัวยังไม่ 30 วัน)
 - 2026-07-03T08:40: ✅ kb-monitor → silent (deliver=local + 3-tier decision rule)
 - 2026-07-03T08:35: ✅ manual verify cron pipeline ผ่าน (`hermes cron run 05f50728f96c` ตอบ "succeeded")
 - 2026-07-03T08:33: ✅ user report "ไม่เห็น cron ทำงาน" — root cause: schedule ตั้งหลัง 06:00 ICT ผ่านไป → next run ขยับเป็น 22:30 คืนนี้
