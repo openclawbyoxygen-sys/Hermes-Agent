@@ -3,3 +3,4 @@
 .hermes_tmp/ *.lock
 nous_auth.*
 kb/ERRORS.md
+scores.jsonl
