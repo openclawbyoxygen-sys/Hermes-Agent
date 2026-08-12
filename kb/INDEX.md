@@ -31,3 +31,4 @@
 | 2026-08-08 | ai-agents | 7 | orchestration, evaluation, safety, tool-use, rag |
 | 2026-08-11 | ai-agents | 3 | multi-agent, planning, evaluation, rl, simulation |
 | 2026-08-12 | ai-agents | 8 | multi-agent, orchestration, evaluation, game-theory, safety |
+| 2026-08-13 | ai-agents | 8 | multi-agent, evaluation, orchestration, llm-agents, benchmark |
