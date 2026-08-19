@@ -51,3 +51,7 @@ Tags that have appeared 3+ times in the KB:
 - evaluation
 - simulation
 - tool-use
+- planning
+- evaluation
+- rag
+- multi-agent
