@@ -44,3 +44,4 @@
 | 2026-08-27 | ai-agents | 7 | orchestration, multi-agent, planning, evaluation, simulation |
 | 2026-08-28 | ai-agents | 8 | orchestration, reasoning, evaluation, benchmark, multi-agent |
 | 2026-08-29 | ai-agents | 8 | multi-agent, reasoning, orchestration, single-agent, rag |
+| 2026-09-01 | ai-agents | 8 | agents, evaluation, orchestration, rl, rag |
