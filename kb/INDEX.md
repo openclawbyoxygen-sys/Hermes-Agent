@@ -49,3 +49,4 @@
 | 2026-09-03 | ai-agents | 7 | multi-agent, orchestration, llm-agents, safety, simulation |
 | 2026-09-04 | ai-agents | 8 | evaluation, rag, safety, rl, multi-agent |
 | 2026-09-05 | ai-agents | 8 | multi-agent, tool-use, llm-agents, rl, planning |
+| 2026-09-08 | ai-agents | 8 | evaluation, multi-agent, safety, orchestration, rag |
