@@ -53,3 +53,4 @@
 | 2026-09-10 | ai-agents | 5 | tool-use, agents, multi-agent, evaluation, benchmark |
 | 2026-09-11 | ai-agents | 7 | orchestration, evaluation, llm-agents, reasoning, multi-agent |
 | 2026-09-12 | ai-agents | 7 | multi-agent, evaluation, llm-agents, safety, orchestration |
+| 2026-09-15 | ai-agents | 3 | evaluation, orchestration, autonomy, game-theory, rag |
