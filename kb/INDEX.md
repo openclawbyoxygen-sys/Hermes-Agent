@@ -54,3 +54,4 @@
 | 2026-09-11 | ai-agents | 7 | orchestration, evaluation, llm-agents, reasoning, multi-agent |
 | 2026-09-12 | ai-agents | 7 | multi-agent, evaluation, llm-agents, safety, orchestration |
 | 2026-09-15 | ai-agents | 3 | evaluation, orchestration, autonomy, game-theory, rag |
+| 2026-09-16 | ai-agents | 8 | evaluation, multi-agent, rag, simulation, protocol |
