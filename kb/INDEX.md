@@ -64,3 +64,4 @@
 | 2026-09-25 | ai-agents | 8 | evaluation, orchestration, multi-agent, safety, protocol |
 | 2026-09-26 | ai-agents | 7 | evaluation, planning, orchestration, multi-agent, reasoning |
 | 2026-09-29 | ai-agents | 6 | multi-agent, planning, evaluation, benchmark, rag |
+| 2026-09-30 | ai-agents | 5 | evaluation, reasoning, rag, game-theory, planning |
