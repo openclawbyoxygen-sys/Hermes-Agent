@@ -70,3 +70,4 @@
 | 2026-10-03 | ai-agents | 3 | evaluation, safety, multi-agent, rag, benchmark |
 | 2026-10-04 | ai-agents | 5 | orchestration, protocol, reasoning, evaluation, autonomy |
 | 2026-10-06 | ai-agents | 7 | orchestration, evaluation, tool-use, reasoning, rag |
+| 2026-10-07 | ai-agents | 8 | rag, llm-agents, simulation, multi-agent, autonomy |
