@@ -72,3 +72,4 @@
 | 2026-10-06 | ai-agents | 7 | orchestration, evaluation, tool-use, reasoning, rag |
 | 2026-10-07 | ai-agents | 8 | rag, llm-agents, simulation, multi-agent, autonomy |
 | 2026-10-08 | ai-agents | 8 | evaluation, orchestration, multi-agent, planning, reasoning |
+| 2026-10-09 | ai-agents | 6 | multi-agent, agents, orchestration, planning, reasoning |
