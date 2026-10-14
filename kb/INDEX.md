@@ -75,3 +75,4 @@
 | 2026-10-09 | ai-agents | 6 | multi-agent, agents, orchestration, planning, reasoning |
 | 2026-10-10 | ai-agents | 8 | multi-agent, rl, evaluation, reasoning, memory |
 | 2026-10-13 | ai-agents | 8 | evaluation, rag, multi-agent, benchmark, reasoning |
+| 2026-10-15 | ai-agents | 5 | evaluation, rl, multi-agent, orchestration, tool-use |
