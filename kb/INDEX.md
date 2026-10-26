@@ -84,3 +84,4 @@
 | 2026-10-23 | ai-agents | 7 | evaluation, reasoning, memory, multi-agent, tool-use |
 | 2026-10-24 | ai-agents | 7 | simulation, rl, planning, orchestration, safety |
 | 2026-10-26 | ai-agents | 13 | evaluation, multi-agent, memory, llm-agents, simulation |
+| 2026-10-27 | ai-agents | 11 | evaluation, multi-agent, simulation, rag, llm-agents |
