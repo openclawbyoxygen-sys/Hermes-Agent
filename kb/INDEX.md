@@ -88,3 +88,4 @@
 | 2026-10-28 | ai-agents | 15 | evaluation, multi-agent, orchestration, reasoning, rl |
 | 2026-10-29 | ai-agents | 15 | evaluation, multi-agent, benchmark, rl, planning |
 | 2026-10-30 | ai-agents | 4 | orchestration, multi-agent, simulation, protocol, llm-agents |
+| 2026-10-31 | ai-agents | 15 | multi-agent, evaluation, rl, orchestration, benchmark |
