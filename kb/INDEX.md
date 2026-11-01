@@ -90,3 +90,4 @@
 | 2026-10-30 | ai-agents | 4 | orchestration, multi-agent, simulation, protocol, llm-agents |
 | 2026-10-31 | ai-agents | 15 | multi-agent, evaluation, rl, orchestration, benchmark |
 | 2026-11-01 | ai-agents | 10 | multi-agent, orchestration, evaluation, protocol, rag |
+| 2026-11-02 | ai-agents | 15 | multi-agent, evaluation, reasoning, rag, planning |
