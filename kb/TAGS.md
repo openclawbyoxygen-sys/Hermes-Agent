@@ -18,3 +18,4 @@ Tags that have appeared 3+ times in the KB:
 - rl
 - tool-use
 - autonomy
+- single-agent
