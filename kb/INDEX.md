@@ -99,3 +99,4 @@
 | 2026-11-08 | ai-agents | 13 | evaluation, multi-agent, orchestration, benchmark, autonomy |
 | 2026-11-10 | ai-agents | 13 | orchestration, multi-agent, reasoning, benchmark, evaluation |
 | 2026-11-11 | ai-agents | 15 | orchestration, evaluation, multi-agent, safety, simulation |
+| 2026-11-12 | ai-agents | 15 | evaluation, multi-agent, orchestration, reasoning, benchmark |
