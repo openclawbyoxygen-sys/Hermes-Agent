@@ -108,3 +108,4 @@
 | 2026-11-19 | ai-agents | 15 | multi-agent, evaluation, benchmark, memory, simulation |
 | 2026-11-20 | ai-agents | 15 | evaluation, multi-agent, orchestration, rag, llm-agents |
 | 2026-11-21 | ai-agents | 15 | evaluation, multi-agent, benchmark, safety, protocol |
+| 2026-11-22 | ai-agents | 2 | llm-agents, tool-use, simulation, safety |
